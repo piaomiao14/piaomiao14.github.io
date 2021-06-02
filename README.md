@@ -14,7 +14,7 @@
 
 大学：[郑州财税金融职业学院](http://www.zzcsjr.edu.cn/)                         2019年--至今
 
-专业：计算机应用技术专业（APP开发工程师方向）
+专业：[计算机应用技术专业（APP开发工程师方向）](http://www.zzcsjr.edu.cn/xxjs/info/1287/1259.htm)
 
 # 荣誉奖励
 
