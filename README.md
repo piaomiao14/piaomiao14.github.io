@@ -11,9 +11,23 @@
 
 #荣誉奖励
 
-（1）校三好学生
-(2)校三好学生
+（1）国家励志奖学金
+（2）国家助学金
+（3）校三好学生
+（4）优秀班干部
 
 #个人技能
+
+- Java
+- C
+- Html
+- Css
+- JavaScipt
+- Python
+- PHP
+- Android
+- Mysql
+- Linux
+- Office
 
 #自我总结
