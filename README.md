@@ -28,18 +28,20 @@
 
 （4）优秀班干部
 
+# 所学科目
+
+- 计算机基础（99分）
+- 数据库原理（95分）
+- 大学英语（92分）
+- 高等数学（93分）
+
 # 个人技能
 
 - Java
-- C
-- Html
-- Css
 - JavaScipt
 - Python
 - PHP
 - Android
-- Mysql
-- Linux
 - Office
 
 # 自我总结
